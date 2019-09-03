@@ -1,8 +1,6 @@
----
-title: "Lecture"
----
+<br />
 
-Decentralized Consensus and Blockchains
+## Decentralized Consensus and Blockchains
 - Learn the fundamentals of decentralized consensus and the blockchain data structure
 
 <br />

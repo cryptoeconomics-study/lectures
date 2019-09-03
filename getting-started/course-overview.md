@@ -1,7 +1,3 @@
----
-title: "Course Overview"
----
-
 <br />
 
 ## Chapter 1: Centralized Payment Processor

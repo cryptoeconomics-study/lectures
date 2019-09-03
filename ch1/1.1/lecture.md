@@ -1,7 +1,3 @@
----
-title: "Lecture"
----
-
 <br />
 
 # Hashing and Signatures
@@ -9,12 +5,12 @@ title: "Lecture"
 
 <br />
 <br />
-<iframe 
-	width="560" 
-	height="315" 
-	src="https://www.youtube-nocookie.com/embed/FLIo_ZjV--U" 
-	frameborder="0" 
-	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+<iframe
+	width="560"
+	height="315"
+	src="https://www.youtube-nocookie.com/embed/FLIo_ZjV--U"
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
 <br />
@@ -26,7 +22,7 @@ title: "Lecture"
 
 <br />
 
-# Ch1.1 Overview 
+# Ch1.1 Overview
 
 ## Cryptographic Hashes
 

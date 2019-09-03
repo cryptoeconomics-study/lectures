@@ -1,7 +1,3 @@
----
-title: "Overview"
----
-
 <br />
 
 # Chapter 1: Central Payment Processor

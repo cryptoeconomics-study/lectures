@@ -1,7 +1,3 @@
----
-title: "Lecture"
----
-
 <br />
 
 # Properties of Centralized Systems

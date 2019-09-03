@@ -1,6 +1,4 @@
----
-title: "Lecture"
----
+<br />
 
 Selfish Mining
 - An attack where dishonest miners can obtain revenue larger than their fair share

@@ -1,8 +1,6 @@
----
-title: "Lecture"
----
+<br />
 
-Nakamoto Consensus
+## Nakamoto Consensus
 - Learn how Satoshi Nakamoto use Proof-of-Work and built-in incentives to achieve decentralized consensus
 
 <br />

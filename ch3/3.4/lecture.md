@@ -1,6 +1,4 @@
----
-title: "Lecture"
----
+<br />
 
 Game Theory in Bitcoin
 - An introduction to basic Game Theory concepts and how we can use them to analyze Bitcoin

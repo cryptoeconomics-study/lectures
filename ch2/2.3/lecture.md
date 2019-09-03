@@ -1,7 +1,3 @@
----
-title: "Lecture"
----
-
 <br />
 
 # Latency-Based Consensus
@@ -9,12 +5,12 @@ title: "Lecture"
 
 <br />
 <br />
-<iframe 
-	width="560" 
-	height="315" 
+<iframe
+	width="560"
+	height="315"
 	src="https://www.youtube-nocookie.com/embed/l0AQ0UJAvM8"
-	frameborder="0" 
-	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
 <br />
@@ -26,7 +22,7 @@ title: "Lecture"
 
 <br />
 
-# Ch2.3 Overview 
+# Ch2.3 Overview
 
 Latency-Based Consensus
 - create an upper bound on network latency and only process valid transactions which are received within that timespan (should provide enough time for all honest participants to receive and process any message under normal network conditions)

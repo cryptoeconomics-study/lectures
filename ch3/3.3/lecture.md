@@ -1,8 +1,6 @@
----
-title: "Lecture"
----
+<br />
 
-Merkle Trees
+## Merkle Trees
 - A powerful data structure to improve our protocol's scalability
 
 <br />
