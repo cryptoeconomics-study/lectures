@@ -1,6 +1,6 @@
 <br />
 
-## Chapter 3: Proof of Work Mechanism Design
+# Chapter 3: Proof of Work Mechanism Design
 An overview of all of the fun stuff we will review in chapter 3! Including: mechanism design, decentralized consensus, merkle trees, game theory, and more!
 
 <br />

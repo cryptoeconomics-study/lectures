@@ -1,6 +1,6 @@
 <br />
 
-## Chapter 2: Client Validation, Networks, and Double Spends
+# Chapter 2: Client Validation, Networks, and Double Spends
 An overview of all of the fun stuff we will review in chapter 2! Including: network models, double spends, 99% fault tolerant consensus, and proof of authority!
 
 <br />
