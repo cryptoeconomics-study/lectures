@@ -1,5 +1,5 @@
 # 🎬 Cryptoeconomics Lectures
-This repository contains the lecture slides, and presentation outlines for Cryptoeconomics.study presentations.
+This repository contains the Cryptoeconomics.Study lecture pages, slides, and presentation outlines.
 Contributions on both the contents of the lectures and the actual slide creation are more than welcome. Let's build
 a great cryptoeconomics lecture series together!
 
