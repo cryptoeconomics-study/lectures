@@ -1,7 +1,3 @@
----
-title: "Resources"
----
-
 <br />
 
 A list of helpful resources to learn everything you could ever want to know about blockchains, crypto-currencies, and cryptoeconomics.
