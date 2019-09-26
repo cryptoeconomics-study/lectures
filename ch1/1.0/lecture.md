@@ -22,8 +22,6 @@
 
 <br />
 
-## Chapter 1: Centralized Payment Processor
-
 ### 1.1 - Hashes and Signatures
 * [Lecture](https://cryptoeconomics.study/docs/en/sync/1.1-lecture)
 * [Coding Challenge](https://cryptoeconomics.study/docs/en/sync/1.1-code-challenge)
