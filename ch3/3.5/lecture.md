@@ -8,7 +8,7 @@ Selfish Mining
 <iframe
 	width="560"
 	height="315"
-	src="https://www.youtube.com/embed/ulb9XVs-7Pk"
+	src="https://www.youtube.com/embed/SWKjSEi-9pg"
 	frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>

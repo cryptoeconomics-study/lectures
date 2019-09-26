@@ -8,7 +8,7 @@ Game Theory in Bitcoin
 <iframe
 	width="560"
 	height="315"
-	src="https://www.youtube.com/embed/IT0HIsf7ilY"
+	src="https://www.youtube.com/embed/XgrFaSSbCZ8"
 	frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
