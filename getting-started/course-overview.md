@@ -1,7 +1,7 @@
 <br />
 
 ## Chapter 1: Centralized Payment Processor
-* [Overview Lecture](https://cryptoeconomics.study/docs/en/ch1/)
+* [Overview Lecture](https://cryptoeconomics.study/docs/en/sync/1.0-lecture)
 
 ### 1.1 - Hashes and Signatures
 * [Lecture](https://cryptoeconomics.study/docs/en/sync/1.1-lecture)
@@ -26,7 +26,7 @@
 <br />
 
 ## Chapter 2: Client Validation, Networks, and Double Spends
-* [Overview Lecture](https://cryptoeconomics.study/docs/en/ch2)
+* [Overview Lecture](http://cryptoeconomics.study/docs/en/sync/2.0-lecture)
 
 ### 2.1 - Networks and Synchrony
 * [Lecture](https://cryptoeconomics.study/docs/en/sync/2.1-lecture)
@@ -47,7 +47,7 @@
 <br />
 
 ## Chapter 3: Proof of Work Mechanism Design
-* [Overview Lecture](https://cryptoeconomics.study/docs/en/ch3)
+* [Overview Lecture](http://cryptoeconomics.study/docs/en/sync/3.0-lecture)
 
 ### 3.1 - Decentralized Consensus and Blockchains
 * [Lecture](https://cryptoeconomics.study/docs/en/sync/3.1-lecture)
